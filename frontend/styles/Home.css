@@ -314,7 +314,7 @@ main.bento-container {
 .hero-description {
     font-size: 1.125rem;
     color: var(--text-muted);
-    max-width: 28rem;
+    max-width: 39rem;
     line-height: 1.6;
 }
 
